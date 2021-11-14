@@ -1,0 +1,47 @@
+.class1{
+	display: inline;
+	color: red;
+}
+.class2{
+	display: inline;
+	color: green;
+
+}
+.class3{
+	display: block;
+	color: blue;
+}
+.class4{
+	display: none;
+}
+.block1{
+	display: inline-block;
+	color: purple;
+}
+.block2{
+	display: inline-block;
+	color: yellow;
+
+}
+.block3{
+	display: inline-block;
+	color: orange;
+}
+.color{
+	color: gold;
+}
+.box{
+	width: 200px;
+	height: 200px;
+	border: 5px red outset;
+	background-color: cyan;
+	text-align: center;
+}
+h3{color: green;}
+
+table,th,td{
+	border: 1px solid black;
+}
+.span2{
+	color: purple;
+}
